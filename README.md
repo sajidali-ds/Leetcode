@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sajidali-ds/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0048-rotate-image](https://github.com/sajidali-ds/Leetcode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/sajidali-ds/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sajidali-ds/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sajidali-ds/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/sajidali-ds/Leetcode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/sajidali-ds/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/sajidali-ds/Leetcode/tree/master/0050-powx-n) |
 | [1903-largest-odd-number-in-string](https://github.com/sajidali-ds/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Recursion
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/sajidali-ds/Leetcode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/sajidali-ds/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sajidali-ds/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Divide and Conquer
