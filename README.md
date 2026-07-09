@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/sajidali-ds/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/sajidali-ds/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/sajidali-ds/Leetcode/tree/master/0118-pascals-triangle) |
+| [0152-maximum-product-subarray](https://github.com/sajidali-ds/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sajidali-ds/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/sajidali-ds/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sajidali-ds/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/sajidali-ds/Leetcode/tree/master/0118-pascals-triangle) |
+| [0152-maximum-product-subarray](https://github.com/sajidali-ds/Leetcode/tree/master/0152-maximum-product-subarray) |
 ## Bit Manipulation
 |  |
 | ------- |
