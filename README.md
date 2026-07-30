@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sajidali-ds/Leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/sajidali-ds/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/sajidali-ds/Leetcode/tree/master/0796-rotate-string) |
+| [1021-remove-outermost-parentheses](https://github.com/sajidali-ds/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/sajidali-ds/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/sajidali-ds/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sajidali-ds/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/sajidali-ds/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [1021-remove-outermost-parentheses](https://github.com/sajidali-ds/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Merge Sort
 |  |
 | ------- |
