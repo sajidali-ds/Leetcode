@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/sajidali-ds/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sajidali-ds/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sajidali-ds/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sajidali-ds/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1539-kth-missing-positive-number](https://github.com/sajidali-ds/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sajidali-ds/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1901-find-a-peak-element-ii](https://github.com/sajidali-ds/Leetcode/tree/master/1901-find-a-peak-element-ii) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/sajidali-ds/Leetcode/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/sajidali-ds/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/sajidali-ds/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sajidali-ds/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2104-sum-of-subarray-ranges](https://github.com/sajidali-ds/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Merge Sort
 |  |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/sajidali-ds/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sajidali-ds/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/sajidali-ds/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sajidali-ds/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2104-sum-of-subarray-ranges](https://github.com/sajidali-ds/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Simulation
 |  |
