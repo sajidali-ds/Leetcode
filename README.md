@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sajidali-ds/Leetcode/tree/master/0015-3sum) |
 | [0048-rotate-image](https://github.com/sajidali-ds/Leetcode/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/sajidali-ds/Leetcode/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/sajidali-ds/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/sajidali-ds/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sajidali-ds/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/sajidali-ds/Leetcode/tree/master/0078-subsets) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/sajidali-ds/Leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/sajidali-ds/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/sajidali-ds/Leetcode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/sajidali-ds/Leetcode/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/sajidali-ds/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/sajidali-ds/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sajidali-ds/Leetcode/tree/master/0268-missing-number) |
