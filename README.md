@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sajidali-ds/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/sajidali-ds/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1539-kth-missing-positive-number](https://github.com/sajidali-ds/Leetcode/tree/master/1539-kth-missing-positive-number) |
+| [1672-richest-customer-wealth](https://github.com/sajidali-ds/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sajidali-ds/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1901-find-a-peak-element-ii](https://github.com/sajidali-ds/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [1929-concatenation-of-array](https://github.com/sajidali-ds/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/sajidali-ds/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sajidali-ds/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sajidali-ds/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [1672-richest-customer-wealth](https://github.com/sajidali-ds/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1901-find-a-peak-element-ii](https://github.com/sajidali-ds/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 ## Divide and Conquer
 |  |
