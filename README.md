@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/sajidali-ds/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/sajidali-ds/Leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/sajidali-ds/Leetcode/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/sajidali-ds/Leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/sajidali-ds/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/sajidali-ds/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/sajidali-ds/Leetcode/tree/master/0066-plus-one) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sajidali-ds/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/sajidali-ds/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sajidali-ds/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/sajidali-ds/Leetcode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/sajidali-ds/Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/sajidali-ds/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sajidali-ds/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/sajidali-ds/Leetcode/tree/master/0043-multiply-strings) |
 | [0735-asteroid-collision](https://github.com/sajidali-ds/Leetcode/tree/master/0735-asteroid-collision) |
 | [1929-concatenation-of-array](https://github.com/sajidali-ds/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Z Algorithm
