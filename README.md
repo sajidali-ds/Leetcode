@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/sajidali-ds/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0658-find-k-closest-elements](https://github.com/sajidali-ds/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/sajidali-ds/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/sajidali-ds/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/sajidali-ds/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/sajidali-ds/Leetcode/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/sajidali-ds/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/sajidali-ds/Leetcode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/sajidali-ds/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/sajidali-ds/Leetcode/tree/master/0796-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/sajidali-ds/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/sajidali-ds/Leetcode/tree/master/0917-reverse-only-letters) |
 | [1021-remove-outermost-parentheses](https://github.com/sajidali-ds/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sajidali-ds/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/sajidali-ds/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/sajidali-ds/Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/sajidali-ds/Leetcode/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/sajidali-ds/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0907-sum-of-subarray-minimums](https://github.com/sajidali-ds/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/sajidali-ds/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sajidali-ds/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -414,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/sajidali-ds/Leetcode/tree/master/0043-multiply-strings) |
 | [0682-baseball-game](https://github.com/sajidali-ds/Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/sajidali-ds/Leetcode/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/sajidali-ds/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/sajidali-ds/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Z Algorithm
 |  |
