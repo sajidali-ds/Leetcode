@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1922-count-good-numbers](https://github.com/sajidali-ds/Leetcode/tree/master/1922-count-good-numbers) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sajidali-ds/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sajidali-ds/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3870-count-commas-in-range](https://github.com/sajidali-ds/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sajidali-ds/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sajidali-ds/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Recursion
