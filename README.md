@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/sajidali-ds/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/sajidali-ds/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/sajidali-ds/Leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/sajidali-ds/Leetcode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/sajidali-ds/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0204-count-primes](https://github.com/sajidali-ds/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/sajidali-ds/Leetcode/tree/master/0231-power-of-two) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sajidali-ds/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/sajidali-ds/Leetcode/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/sajidali-ds/Leetcode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/sajidali-ds/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/sajidali-ds/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sajidali-ds/Leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -791,4 +793,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/sajidali-ds/Leetcode/tree/master/0204-count-primes) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sajidali-ds/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
