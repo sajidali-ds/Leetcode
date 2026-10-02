@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sajidali-ds/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/sajidali-ds/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/sajidali-ds/Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/sajidali-ds/Leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sajidali-ds/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/sajidali-ds/Leetcode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/sajidali-ds/Leetcode/tree/master/0058-length-of-last-word) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sajidali-ds/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/sajidali-ds/Leetcode/tree/master/0022-generate-parentheses) |
 | [0096-unique-binary-search-trees](https://github.com/sajidali-ds/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/sajidali-ds/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sajidali-ds/Leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -513,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sajidali-ds/Leetcode/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/sajidali-ds/Leetcode/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/sajidali-ds/Leetcode/tree/master/0113-path-sum-ii) |
 ## Enumeration
@@ -670,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sajidali-ds/Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/sajidali-ds/Leetcode/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sajidali-ds/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Quicksort
 |  |
