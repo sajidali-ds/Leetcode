@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/sajidali-ds/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sajidali-ds/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/sajidali-ds/Leetcode/tree/master/0290-word-pattern) |
+| [0301-remove-invalid-parentheses](https://github.com/sajidali-ds/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/sajidali-ds/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sajidali-ds/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/sajidali-ds/Leetcode/tree/master/0383-ransom-note) |
@@ -542,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/sajidali-ds/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sajidali-ds/Leetcode/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/sajidali-ds/Leetcode/tree/master/0113-path-sum-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/sajidali-ds/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 ## Enumeration
 |  |
 | ------- |
@@ -753,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/sajidali-ds/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/sajidali-ds/Leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/sajidali-ds/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/sajidali-ds/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0542-01-matrix](https://github.com/sajidali-ds/Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/sajidali-ds/Leetcode/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sajidali-ds/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
