@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/sajidali-ds/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sajidali-ds/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/sajidali-ds/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/sajidali-ds/Leetcode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sajidali-ds/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sajidali-ds/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/sajidali-ds/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/sajidali-ds/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/sajidali-ds/Leetcode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/sajidali-ds/Leetcode/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/sajidali-ds/Leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/sajidali-ds/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sajidali-ds/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/sajidali-ds/Leetcode/tree/master/0205-isomorphic-strings) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/sajidali-ds/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/sajidali-ds/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sajidali-ds/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/sajidali-ds/Leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/sajidali-ds/Leetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sajidali-ds/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/sajidali-ds/Leetcode/tree/master/0542-01-matrix) |
@@ -541,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/sajidali-ds/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sajidali-ds/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/sajidali-ds/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/sajidali-ds/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/sajidali-ds/Leetcode/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/sajidali-ds/Leetcode/tree/master/0113-path-sum-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/sajidali-ds/Leetcode/tree/master/0301-remove-invalid-parentheses) |
@@ -713,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/sajidali-ds/Leetcode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sajidali-ds/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/sajidali-ds/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/sajidali-ds/Leetcode/tree/master/0100-same-tree) |
