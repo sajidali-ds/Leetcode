@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/sajidali-ds/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sajidali-ds/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2643-row-with-maximum-ones](https://github.com/sajidali-ds/Leetcode/tree/master/2643-row-with-maximum-ones) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/sajidali-ds/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sajidali-ds/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sajidali-ds/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sajidali-ds/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -563,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/sajidali-ds/Leetcode/tree/master/0204-count-primes) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/sajidali-ds/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sajidali-ds/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Monotonic Stack
 |  |
