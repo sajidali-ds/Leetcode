@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/sajidali-ds/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/sajidali-ds/Leetcode/tree/master/1922-count-good-numbers) |
 | [2235-add-two-integers](https://github.com/sajidali-ds/Leetcode/tree/master/2235-add-two-integers) |
+| [2409-count-days-spent-together](https://github.com/sajidali-ds/Leetcode/tree/master/2409-count-days-spent-together) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sajidali-ds/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sajidali-ds/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sajidali-ds/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/sajidali-ds/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sajidali-ds/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/sajidali-ds/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [2409-count-days-spent-together](https://github.com/sajidali-ds/Leetcode/tree/master/2409-count-days-spent-together) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sajidali-ds/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/sajidali-ds/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Greedy
