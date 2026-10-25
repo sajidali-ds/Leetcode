@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/sajidali-ds/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1207-unique-number-of-occurrences](https://github.com/sajidali-ds/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sajidali-ds/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1254-number-of-closed-islands](https://github.com/sajidali-ds/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/sajidali-ds/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sajidali-ds/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sajidali-ds/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/sajidali-ds/Leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/sajidali-ds/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/sajidali-ds/Leetcode/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/sajidali-ds/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/sajidali-ds/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1672-richest-customer-wealth](https://github.com/sajidali-ds/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1901-find-a-peak-element-ii](https://github.com/sajidali-ds/Leetcode/tree/master/1901-find-a-peak-element-ii) |
@@ -826,6 +828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sajidali-ds/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sajidali-ds/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/sajidali-ds/Leetcode/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/sajidali-ds/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sajidali-ds/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
@@ -852,6 +855,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sajidali-ds/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/sajidali-ds/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/sajidali-ds/Leetcode/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/sajidali-ds/Leetcode/tree/master/1254-number-of-closed-islands) |
 ## DP on Trees
 |  |
 | ------- |
@@ -886,6 +890,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/sajidali-ds/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/sajidali-ds/Leetcode/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/sajidali-ds/Leetcode/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/sajidali-ds/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sajidali-ds/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Pigeonhole Principle
 |  |
