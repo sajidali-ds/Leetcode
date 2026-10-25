@@ -1,42 +1,47 @@
 class Solution {
 public:
+    int m,n;
+
+    void dfs(vector<vector<int>>& grid,int i,int j){
+        if(i <0 || i>=m ||j<0 || j >=n || grid[i][j]==0)
+            return;
+        grid[i][j]=0;
+        dfs(grid,i,j-1);
+        dfs(grid,i,j+1);
+        dfs(grid,i-1,j);
+        dfs(grid,i+1,j);
+    }
     int numEnclaves(vector<vector<int>>& grid) {
-        queue<pair<int,int>> q;
-        int n=grid.size();
-        int m=grid[0].size();
-        vector<vector<int>> vis(n, vector<int>(m, 0));
-        for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
-               if(i==0 || i==n-1 || j==0 || j==m-1){
-                  if(grid[i][j]==1){
-                     q.push({i,j});
-                     vis[i][j] = 1;
-                  }
-               }
+       
+        m=grid.size();
+        n=grid[0].size();
+        
+        for(int i=0;i<m;i++){
+            if(grid[i][0]==1){
+               dfs(grid,i,0);
             }
+            if(grid[i][n-1]==1){
+               dfs(grid,i,n-1);
+            }
+
         }
-        int delrow[]={-1,0,+1,0};
-        int delcol[]={0,+1,0,-1};
-        while(!q.empty()){
-            int row=q.front().first;
-            int col=q.front().second;
-            q.pop();
-            for(int i=0;i<4;i++){
-                int nrow=row+delrow[i];
-                int ncol=col + delcol[i];
-                if(nrow >=0 && nrow < n && ncol >=0 && ncol < m && vis[nrow][ncol]==0 && grid[row][col]==1 ){
-                    q.push({nrow,ncol});
-                    vis[nrow][ncol]=1;
-                }
+        for(int j=0;j<n-1;j++){
+            if(grid[0][j]==1){
+               dfs(grid,0,j);
+            }
+            if(grid[m-1][j]==1){
+               dfs(grid,m-1,j);
             }
         }
         int count=0;
-        for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
-                if(grid[i][j]==1 && vis[i][j]==0)
-                  count++;
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
+                if(grid[i][j]==1){
+                    count++;
+                }
             }
         }
         return count;
+               
     }
 };
