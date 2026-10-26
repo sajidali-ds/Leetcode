@@ -2,8 +2,6 @@ class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
         int n=s.size();
-        if(n==1)
-           return n;
         vector<int> hash(256, -1);
         int l=0;
         int r=0;
