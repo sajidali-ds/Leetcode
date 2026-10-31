@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/sajidali-ds/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/sajidali-ds/Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sajidali-ds/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/sajidali-ds/Leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2643-row-with-maximum-ones](https://github.com/sajidali-ds/Leetcode/tree/master/2643-row-with-maximum-ones) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sajidali-ds/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sajidali-ds/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/sajidali-ds/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sajidali-ds/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sajidali-ds/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/sajidali-ds/Leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 ## Math
 |  |
 | ------- |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sajidali-ds/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1903-largest-odd-number-in-string](https://github.com/sajidali-ds/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sajidali-ds/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/sajidali-ds/Leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sajidali-ds/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/sajidali-ds/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sajidali-ds/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -442,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/sajidali-ds/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/sajidali-ds/Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sajidali-ds/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/sajidali-ds/Leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sajidali-ds/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sajidali-ds/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/sajidali-ds/Leetcode/tree/master/3886-sum-of-sortable-integers) |
