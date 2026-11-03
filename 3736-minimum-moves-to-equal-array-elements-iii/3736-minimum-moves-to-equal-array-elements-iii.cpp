@@ -4,7 +4,7 @@ public:
         int larger= *max_element(nums.begin(),nums.end());
         int move=0;
         for(int i=0;i<nums.size();i++){
-            move +=larger-nums[i];
+            if(nums[i] < larger) move+=larger - nums[i]; 
         }
         return move;
     }
