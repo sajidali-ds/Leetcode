@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/sajidali-ds/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/sajidali-ds/Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sajidali-ds/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2446-determine-if-two-events-have-conflict](https://github.com/sajidali-ds/Leetcode/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/sajidali-ds/Leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2643-row-with-maximum-ones](https://github.com/sajidali-ds/Leetcode/tree/master/2643-row-with-maximum-ones) |
 | [2747-count-zero-request-servers](https://github.com/sajidali-ds/Leetcode/tree/master/2747-count-zero-request-servers) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/sajidali-ds/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/sajidali-ds/Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2409-count-days-spent-together](https://github.com/sajidali-ds/Leetcode/tree/master/2409-count-days-spent-together) |
+| [2446-determine-if-two-events-have-conflict](https://github.com/sajidali-ds/Leetcode/tree/master/2446-determine-if-two-events-have-conflict) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sajidali-ds/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/sajidali-ds/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/sajidali-ds/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
