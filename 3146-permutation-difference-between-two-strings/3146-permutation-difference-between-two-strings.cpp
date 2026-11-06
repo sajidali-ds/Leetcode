@@ -1,16 +1,14 @@
 class Solution {
 public:
     int findPermutationDifference(string s, string t) {
-        int i=0;
-        int j=0;
-        int m=s.size();
+        int pos[26] = {0};
         unordered_map<char,int> mp;
-        for(int i=0;i<t.size();i++){
-            mp[t[i]]=i;
+        for(int i = 0; i < t.size(); i++) {
+            pos[t[i] - 'a'] = i;
         }
         int sum=0;
-        for(int i=0;i<m;i++){
-            sum += abs(i- mp[s[i]]);
+        for(int i=0;i<s.size();i++){
+            sum += abs(i- pos[s[i] - 'a']);
         }
         return sum;
     }
