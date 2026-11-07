@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2643-row-with-maximum-ones](https://github.com/sajidali-ds/Leetcode/tree/master/2643-row-with-maximum-ones) |
 | [2747-count-zero-request-servers](https://github.com/sajidali-ds/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sajidali-ds/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/sajidali-ds/Leetcode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sajidali-ds/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/sajidali-ds/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sajidali-ds/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -571,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/sajidali-ds/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sajidali-ds/Leetcode/tree/master/0268-missing-number) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/sajidali-ds/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/sajidali-ds/Leetcode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sajidali-ds/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/sajidali-ds/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sajidali-ds/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
