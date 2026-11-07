@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/sajidali-ds/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sajidali-ds/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sajidali-ds/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1882-process-tasks-using-servers](https://github.com/sajidali-ds/Leetcode/tree/master/1882-process-tasks-using-servers) |
 | [1901-find-a-peak-element-ii](https://github.com/sajidali-ds/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [1929-concatenation-of-array](https://github.com/sajidali-ds/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sajidali-ds/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -661,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/sajidali-ds/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sajidali-ds/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/sajidali-ds/Leetcode/tree/master/1046-last-stone-weight) |
+| [1882-process-tasks-using-servers](https://github.com/sajidali-ds/Leetcode/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sajidali-ds/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sajidali-ds/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sajidali-ds/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
