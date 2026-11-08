@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1882-process-tasks-using-servers](https://github.com/sajidali-ds/Leetcode/tree/master/1882-process-tasks-using-servers) |
 | [1901-find-a-peak-element-ii](https://github.com/sajidali-ds/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [1929-concatenation-of-array](https://github.com/sajidali-ds/Leetcode/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/sajidali-ds/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sajidali-ds/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/sajidali-ds/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/sajidali-ds/Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/sajidali-ds/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sajidali-ds/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/sajidali-ds/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/sajidali-ds/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/sajidali-ds/Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2409-count-days-spent-together](https://github.com/sajidali-ds/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/sajidali-ds/Leetcode/tree/master/2446-determine-if-two-events-have-conflict) |
@@ -742,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-clumsy-factorial](https://github.com/sajidali-ds/Leetcode/tree/master/1006-clumsy-factorial) |
 | [1260-shift-2d-grid](https://github.com/sajidali-ds/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1929-concatenation-of-array](https://github.com/sajidali-ds/Leetcode/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/sajidali-ds/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/sajidali-ds/Leetcode/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sajidali-ds/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Z Algorithm
