@@ -8,7 +8,7 @@ public:
                if(batteryPercentages[i] > 0){
                    count++;
                    for(int j=i+1;j<n;j++){
-                    batteryPercentages[j]=max(0,batteryPercentages[j]-1);
+                      batteryPercentages[j]=batteryPercentages[j]-1;
                    }
                 }
                 
