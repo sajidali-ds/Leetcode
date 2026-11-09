@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sajidali-ds/Leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/sajidali-ds/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sajidali-ds/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0396-rotate-function](https://github.com/sajidali-ds/Leetcode/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/sajidali-ds/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/sajidali-ds/Leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sajidali-ds/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/sajidali-ds/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sajidali-ds/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/sajidali-ds/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0396-rotate-function](https://github.com/sajidali-ds/Leetcode/tree/master/0396-rotate-function) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sajidali-ds/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sajidali-ds/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0507-perfect-number](https://github.com/sajidali-ds/Leetcode/tree/master/0507-perfect-number) |
@@ -565,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/sajidali-ds/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/sajidali-ds/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/sajidali-ds/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0396-rotate-function](https://github.com/sajidali-ds/Leetcode/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/sajidali-ds/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/sajidali-ds/Leetcode/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/sajidali-ds/Leetcode/tree/master/0647-palindromic-substrings) |
