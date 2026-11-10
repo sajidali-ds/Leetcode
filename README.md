@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/sajidali-ds/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sajidali-ds/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/sajidali-ds/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0135-candy](https://github.com/sajidali-ds/Leetcode/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/sajidali-ds/Leetcode/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/sajidali-ds/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sajidali-ds/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -437,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/sajidali-ds/Leetcode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/sajidali-ds/Leetcode/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/sajidali-ds/Leetcode/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/sajidali-ds/Leetcode/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/sajidali-ds/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/sajidali-ds/Leetcode/tree/master/0455-assign-cookies) |
