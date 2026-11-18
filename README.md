@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/sajidali-ds/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sajidali-ds/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/sajidali-ds/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [0992-subarrays-with-k-different-integers](https://github.com/sajidali-ds/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/sajidali-ds/Leetcode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/sajidali-ds/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sajidali-ds/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/sajidali-ds/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sajidali-ds/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sajidali-ds/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0992-subarrays-with-k-different-integers](https://github.com/sajidali-ds/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1207-unique-number-of-occurrences](https://github.com/sajidali-ds/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sajidali-ds/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sajidali-ds/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -720,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/sajidali-ds/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0904-fruit-into-baskets](https://github.com/sajidali-ds/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/sajidali-ds/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/sajidali-ds/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/sajidali-ds/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sajidali-ds/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sajidali-ds/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -761,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/sajidali-ds/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/sajidali-ds/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/sajidali-ds/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [0992-subarrays-with-k-different-integers](https://github.com/sajidali-ds/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1267-count-servers-that-communicate](https://github.com/sajidali-ds/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sajidali-ds/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/sajidali-ds/Leetcode/tree/master/2960-count-tested-devices-after-test-operations) |
