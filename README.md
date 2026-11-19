@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/sajidali-ds/Leetcode/tree/master/2235-add-two-integers) |
 | [2409-count-days-spent-together](https://github.com/sajidali-ds/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/sajidali-ds/Leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
+| [3099-harshad-number](https://github.com/sajidali-ds/Leetcode/tree/master/3099-harshad-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sajidali-ds/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/sajidali-ds/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sajidali-ds/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
