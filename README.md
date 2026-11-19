@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/sajidali-ds/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/sajidali-ds/Leetcode/tree/master/1046-last-stone-weight) |
 | [1089-duplicate-zeros](https://github.com/sajidali-ds/Leetcode/tree/master/1089-duplicate-zeros) |
+| [1200-minimum-absolute-difference](https://github.com/sajidali-ds/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/sajidali-ds/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sajidali-ds/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1254-number-of-closed-islands](https://github.com/sajidali-ds/Leetcode/tree/master/1254-number-of-closed-islands) |
@@ -528,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/sajidali-ds/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0977-squares-of-a-sorted-array](https://github.com/sajidali-ds/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sajidali-ds/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1200-minimum-absolute-difference](https://github.com/sajidali-ds/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sajidali-ds/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sajidali-ds/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sajidali-ds/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
