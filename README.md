@@ -628,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/sajidali-ds/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sajidali-ds/Leetcode/tree/master/0213-house-robber-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/sajidali-ds/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0338-counting-bits](https://github.com/sajidali-ds/Leetcode/tree/master/0338-counting-bits) |
 | [0396-rotate-function](https://github.com/sajidali-ds/Leetcode/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/sajidali-ds/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/sajidali-ds/Leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -656,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/sajidali-ds/Leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/sajidali-ds/Leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/sajidali-ds/Leetcode/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/sajidali-ds/Leetcode/tree/master/0338-counting-bits) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/sajidali-ds/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/sajidali-ds/Leetcode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sajidali-ds/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
