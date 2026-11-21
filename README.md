@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sajidali-ds/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/sajidali-ds/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/sajidali-ds/Leetcode/tree/master/2960-count-tested-devices-after-test-operations) |
+| [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/sajidali-ds/Leetcode/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/sajidali-ds/Leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sajidali-ds/Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/sajidali-ds/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
