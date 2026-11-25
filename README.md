@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3882-minimum-xor-path-in-a-grid](https://github.com/sajidali-ds/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/sajidali-ds/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/sajidali-ds/Leetcode/tree/master/3903-smallest-stable-index-i) |
+| [3934-smallest-unique-subarray](https://github.com/sajidali-ds/Leetcode/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/sajidali-ds/Leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Binary Search
 |  |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/sajidali-ds/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sajidali-ds/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/sajidali-ds/Leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
+| [3934-smallest-unique-subarray](https://github.com/sajidali-ds/Leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Math
 |  |
 | ------- |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sajidali-ds/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sajidali-ds/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sajidali-ds/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3934-smallest-unique-subarray](https://github.com/sajidali-ds/Leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -1177,4 +1180,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/sajidali-ds/Leetcode/tree/master/0202-happy-number) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/sajidali-ds/Leetcode/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/sajidali-ds/Leetcode/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/sajidali-ds/Leetcode/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
