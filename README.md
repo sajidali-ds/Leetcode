@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/sajidali-ds/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/sajidali-ds/Leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/sajidali-ds/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/sajidali-ds/Leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sajidali-ds/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/sajidali-ds/Leetcode/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/sajidali-ds/Leetcode/tree/master/0658-find-k-closest-elements) |
@@ -520,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/sajidali-ds/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/sajidali-ds/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/sajidali-ds/Leetcode/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/sajidali-ds/Leetcode/tree/master/0561-array-partition) |
 | [0678-valid-parenthesis-string](https://github.com/sajidali-ds/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/sajidali-ds/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/sajidali-ds/Leetcode/tree/master/0860-lemonade-change) |
@@ -569,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/sajidali-ds/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/sajidali-ds/Leetcode/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sajidali-ds/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0561-array-partition](https://github.com/sajidali-ds/Leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sajidali-ds/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/sajidali-ds/Leetcode/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/sajidali-ds/Leetcode/tree/master/0658-find-k-closest-elements) |
@@ -1014,6 +1017,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/sajidali-ds/Leetcode/tree/master/0561-array-partition) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sajidali-ds/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Manacher
 |  |
