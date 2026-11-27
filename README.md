@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/sajidali-ds/Leetcode/tree/master/0396-rotate-function) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sajidali-ds/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sajidali-ds/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0504-base-7](https://github.com/sajidali-ds/Leetcode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/sajidali-ds/Leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/sajidali-ds/Leetcode/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/sajidali-ds/Leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/sajidali-ds/Leetcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/sajidali-ds/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/sajidali-ds/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0504-base-7](https://github.com/sajidali-ds/Leetcode/tree/master/0504-base-7) |
 | [0541-reverse-string-ii](https://github.com/sajidali-ds/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sajidali-ds/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0647-palindromic-substrings](https://github.com/sajidali-ds/Leetcode/tree/master/0647-palindromic-substrings) |
